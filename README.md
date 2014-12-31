@@ -29,5 +29,6 @@ events-webserver
  - http://mystry-geek.blogspot.com/2012/07/simple-web-server-using-epoll-and.html
  - http://linux.die.net/man/4/epoll
  - https://github.com/cherokee/webserver/blob/master/cherokee/fdpoll-epoll.c
+ - http://www.eecs.berkeley.edu/~sangjin/2012/12/21/epoll-vs-kqueue.html
 
 
