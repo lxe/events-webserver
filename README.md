@@ -20,6 +20,9 @@ events-webserver
 #### Materials:
 
  - http://daniel.haxx.se/docs/poll-vs-select.html
+ - https://github.com/springmeyer/libuv-webserver
+ - http://www.kegel.com/c10k.html
+ - https://github.com/h2o/picohttpparser (parser)
  - http parser library? They are optimized already (picohttpparser, joyent's parser). But maybe they take compliance over performance? Maybe.
 
 
