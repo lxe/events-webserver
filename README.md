@@ -26,5 +26,8 @@ events-webserver
  - http://www.kegel.com/c10k.html
  - https://github.com/h2o/picohttpparser (parser)
  - http parser library? They are optimized already (picohttpparser, joyent's parser). But maybe they take compliance over performance? Maybe.
+ - http://mystry-geek.blogspot.com/2012/07/simple-web-server-using-epoll-and.html
+ - http://linux.die.net/man/4/epoll
+ - https://github.com/cherokee/webserver/blob/master/cherokee/fdpoll-epoll.c
 
 
