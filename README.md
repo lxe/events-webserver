@@ -1,6 +1,8 @@
 events-webserver
 ================
 
+![](http://i.imgur.com/ChzUb.jpg)
+
 ### Let's write a event-based webserver.
 
 #### Goals:
