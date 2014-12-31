@@ -14,7 +14,7 @@ events-webserver
 
 #### Constraints:
 
- - Let's not worry about portability. Let's make this run on Linux (epoll maybe?) or OSX (kqueue?) I'm not sure yet.
+ - Let's not worry about portability. Let's make this run on Linux (epoll maybe?) or OSX/BSD (kqueue?) I'm not sure yet.
  - Do not overcomplicate. Let's not rely on libuv, libev, libevent etc... They are too magic for me at this point.
  - Do NOT overcomplicate. Simplicity over compilance. We don't need to satisfy everything. Let's pretend we are writing a client as well.
  - Let's not layer this with deps and subdeps. Just kernel interfaces and stdlibs if possible.
